@@ -65,6 +65,7 @@ class Contact extends Component {
                             <li>
                                 <a href="#">Contact</a>
                             </li>
+                            <li></li>
                         </ul>
                     </nav>
 
